@@ -13,4 +13,7 @@ For constructing the a simple Acarde game we will be using following items:
 7. Breakable Pins
 
 Game plan:
-Two characters will be coming from the top of the screen, user character will be controlled by user and user has to save his character by moving its position.
+Objective is to create a game that will be controlled by user.
+In this game, there will be three things revolving over the oled screen i.e. main character, enemies and friends.
+The enemies and friends will come towards the user character, from which user has to savethe friends, if user saved the enemy by mistake the game will over. If user catch friends then it will increase the user scores. User scores will be shown and will continously updates on the top right corner of the Adafruit oled screen.
+
